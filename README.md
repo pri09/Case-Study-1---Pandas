@@ -1,1 +1,1 @@
-# Case-Study-1---Pandas
+# Case-Study-1-Pandas
